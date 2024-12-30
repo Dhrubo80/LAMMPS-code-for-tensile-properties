@@ -1,0 +1,1 @@
+# LAMMPS-code-for-tensile-properties
